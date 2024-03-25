@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [H-Redfield](https://github.com/ControlYourPotatoes/redfield-react)
 
-- 🌱 I’m currently learning **React + Typescript**
+- 🌱 I’m currently mastering **React + Typescript**
 
 - 👯 I’m looking to collaborate on **Chainlink**
 

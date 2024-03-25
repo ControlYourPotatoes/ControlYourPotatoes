@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [H-Redfield](https://github.com/ControlYourPotatoes/redfield-react)
 
-- 🌱 I’m currently mastering **React + Typescript**
+- 🌱 I’m currently learning **Solidity**
 
 - 👯 I’m looking to collaborate on **Chainlink**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ControlYourPotatoes?tab=repositories](https://github.com/ControlYourPotatoes?tab=repositories)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **React + Typescript**
 
 - 📫 How to reach me **alexanderpuga78@gmail.com**
 

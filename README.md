@@ -1,32 +1,131 @@
-<h1 align="center">Hi 👋, I'm Alexander Puga</h1>
-<h3 align="center">Sofware Developer</h3>
+# Hi there, I'm Alexander Puga 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=controlyourpotatoes&label=Profile%20views&color=0e75b6&style=flat" alt="controlyourpotatoes" /> </p>
+**Full Stack Developer** specializing in React ecosystems and Go backend systems
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=controlyourpotatoes" alt="controlyourpotatoes" /></a> </p>
+🌍 Based in Carolina, Puerto Rico  
+💼 Currently building innovative solutions at Dollar Zing  
+🎯 Focused on **T3 Stack** (Next.js, TypeScript, tRPC) and **Go** development  
 
-- 🔭 I’m currently working on [H-Redfield](https://github.com/ControlYourPotatoes/redfield-react)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://controlyourpotatoes.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pugadevmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pugatech)
 
-- 🌱 I’m currently learning **Solidity**
+---
 
-- 👯 I’m looking to collaborate on **Chainlink**
+## 🚀 Featured Projects
 
-- 👨‍💻 All of my projects are available at [https://github.com/ControlYourPotatoes?tab=repositories](https://github.com/ControlYourPotatoes?tab=repositories)
+### 🎴 **Card Generator** - *Game-Ready Trading Card System*
+> **Go • PostgreSQL • Next.js • TypeScript • tRPC**
 
-- 💬 Ask me about **React + Typescript**
+A sophisticated full-stack application that creates professional-quality trading cards with dual PNG/SVG output and interactive game-ready features.
 
-- 📫 How to reach me **alexanderpuga78@gmail.com**
+**🔥 Key Highlights:**
+- **Clean Architecture** with SOLID principles and Domain-Driven Design
+- **Dual Format Engine** - Traditional PNG + Interactive SVG with game mechanics
+- **Type-Safe Full Stack** using tRPC for seamless client-server communication
+- **100% Test Success Rate** with comprehensive unit, integration, and e2e coverage
+- **5 Card Types** with extensible template system for scalability
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/pugatech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pugadev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/alexpuga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alexpuga" height="30" width="40" /></a>
-</p>
+```
+🎯 Game-Ready Features: Interactive zones, hover effects, animation targets
+🏗️ Architecture: Factory pattern, dependency injection, custom ORM
+⚡ Performance: Optimized for high-volume card generation
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+[**View Repository →**](https://github.com/ControlYourPotatoes/card-generator) | [**Live Demo →**](#)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=controlyourpotatoes&show_icons=true&locale=en&layout=compact" alt="controlyourpotatoes" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=controlyourpotatoes&show_icons=true&locale=en" alt="controlyourpotatoes" /></p>
+### 💰 **Venmito** - *Financial Analytics Platform*
+> **Python • Flask • PostgreSQL • Chart.js**
 
+Full-stack financial data processing and visualization platform with comprehensive transaction analytics.
+
+**Key Features:**
+- Modular ETL pipeline with 95% data normalization accuracy
+- Interactive dashboards with real-time filtering capabilities
+- RESTful API with complex parameterized queries
+- Multi-format data support (JSON, YAML, CSV, XML)
+
+[**View Repository →**](https://github.com/ControlYourPotatoes/venmito) | [**Read Case Study →**](#)
+
+---
+
+### ⛈️ **Redfield** - *Parametric Insurance Smart Contracts*
+> **Solidity • Chainlink • React • TypeScript**
+
+Blockchain-based parametric hurricane insurance with automated payouts using Chainlink oracles.
+
+**Technical Achievements:**
+- Smart contracts deployed on testnet with Brownie containerization
+- Material-UI frontend with Leaflet geospatial integration
+- React Context API for wallet connection and state management
+- CI/CD pipeline with Docker and Google Cloud Run
+
+[**View Repository →**](https://github.com/ControlYourPotatoes/redfield-react)
+
+---
+
+## 🛠️ Technology Stack
+
+### **Current Focus**
+![T3 Stack](https://img.shields.io/badge/T3_Stack-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### **Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-FFD43B?style=for-the-badge&logo=javascript&logoColor=darkgreen)
+
+### **Backend**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-398CCB?style=for-the-badge&logo=trpc&logoColor=white)
+
+### **Database & Cloud**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=controlyourpotatoes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=controlyourpotatoes&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+---
+
+## 🎯 What I'm Up To
+
+- 🔭 **Building**: Real-time financial simulation dashboards with React + TypeScript
+- 🌱 **Learning**: Advanced Go patterns and T3 Stack best practices  
+- 🎴 **Shipping**: Interactive SVG card generation system with game-ready features
+- 💡 **Exploring**: tRPC for full-stack type safety and modern web3 integrations
+
+---
+
+## 💬 Let's Connect
+
+I'm always interested in discussing **full-stack architecture**, **Go development**, **React ecosystems**, and **innovative web technologies**. 
+
+Whether you want to collaborate on a project, discuss technical challenges, or just chat about the latest in web development - feel free to reach out!
+
+[![Email](https://img.shields.io/badge/Email-pugadevmail@gmail.com-red?style=flat-square&logo=gmail)](mailto:pugadevmail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-controlyourpotatoes.github.io-blue?style=flat-square&logo=vercel)](https://controlyourpotatoes.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pugatech)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=controlyourpotatoes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>

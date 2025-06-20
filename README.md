@@ -36,7 +36,7 @@ A sophisticated full-stack application that creates professional-quality trading
 
 ---
 
-### 💰 **Venmito** - *Financial Analytics Platform*
+### 💰 **Streamline** - *Financial Analytics Platform*
 > **Python • Flask • PostgreSQL • Chart.js**
 
 Full-stack financial data processing and visualization platform with comprehensive transaction analytics.
